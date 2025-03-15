@@ -4,7 +4,7 @@ title: Search Engine
 sdk: streamlit
 emoji: ⚡
 colorFrom: red
-colorTo: red
+colorTo: yellow
 short_description: Search Engine
 ---
 # Search-Engine
